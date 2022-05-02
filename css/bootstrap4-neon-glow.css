@@ -1682,7 +1682,7 @@ pre {
 
 .table .thead-light th {
   color: #28a745;
-  background-color: #282a38;
+  background-color: #282a3866;
   border-color: #34b017; }
 
 .table-dark {
@@ -1753,7 +1753,7 @@ pre {
   font-weight: 400;
   line-height: 1.5;
   color: #34b017;
-  background-color: #28293e;
+  background-color: #18191e5c;
   background-clip: padding-box;
   border: 1px solid #11111d;
   border-radius: 6px;
@@ -2253,8 +2253,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #173616;
-  border-color: #00ff37; }
+  background-color: #282a3866;
+  border-color: #00ff37a9; }
   .btn-primary:hover {
     color: #fff;
     background-color: #28a745;
@@ -4379,7 +4379,7 @@ input[type="button"].btn-block {
 
 .badge-primary {
   color: #fff;
-  background-color: #714cdf; }
+  background-color:#1e1e1e; }
   a.badge-primary:hover, a.badge-primary:focus {
     color: #fff;
     background-color: #5126d2; }
@@ -4693,7 +4693,7 @@ input[type="button"].btn-block {
   display: block;
   padding: 0.75rem 1.25rem;
   margin-bottom: -1px;
-  background-color: #32334a;
+  background-color: #12cb5054;
   border: 1px solid rgba(0, 0, 0, 0.125); }
   .list-group-item:first-child {
     border-top-left-radius: 6px;
@@ -4709,8 +4709,8 @@ input[type="button"].btn-block {
   .list-group-item.active {
     z-index: 2;
     color: #28a745;
-    background-color: transparent;
-    border-color: #714cdf; }
+    background-color: #1c1c1c7a;
+    border-color: #11c94b; }
 
 .list-group-horizontal {
   -webkit-box-orient: horizontal;
